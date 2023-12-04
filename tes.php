@@ -28,6 +28,10 @@
         </tr>
     </table>
 
+    <?php
+        echo "sudah ke upload";
+    ?>
+
     <script>
         // Ambil elemen input pencarian
         const searchInput = document.getElementById('searchInput');
