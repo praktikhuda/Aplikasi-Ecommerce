@@ -29,7 +29,7 @@
     </table>
 
     <?php
-        echo "sudah ke upload";
+        echo "sudah ke pristel";
     ?>
 
     <script>
